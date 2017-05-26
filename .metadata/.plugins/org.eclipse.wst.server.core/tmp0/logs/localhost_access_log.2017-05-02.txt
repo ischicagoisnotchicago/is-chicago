@@ -1,0 +1,10 @@
+127.0.0.1 - - [02/May/2017:15:38:12 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:38:15 -0400] "GET /CC_Personal_Website/index.html HTTP/1.1" 200 3281
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:38:15 -0400] "GET /CC_Personal_Website/newprofile.css HTTP/1.1" 200 3937
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:38:15 -0400] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:38:23 -0400] "GET /CC_Personal_Website/portofolio.html HTTP/1.1" 200 1023
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:38:28 -0400] "GET /CC_Personal_Website/contact.html HTTP/1.1" 200 1616
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:58:38 -0400] "GET /CC_Personal_Website/newprofile.css HTTP/1.1" 200 3976
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:58:45 -0400] "GET /CC_Personal_Website/newprofile.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:58:51 -0400] "GET /CC_Personal_Website/contact.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/May/2017:15:58:51 -0400] "GET /CC_Personal_Website/newprofile.css HTTP/1.1" 304 -

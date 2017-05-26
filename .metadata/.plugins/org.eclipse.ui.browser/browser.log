@@ -1,0 +1,295 @@
+
+Apr 14, 2017 16:21:57.31 NEW SESSION
+Apr 14, 2017 16:21:57.31 [992:9776:0414/162157.306:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 14, 2017 16:21:57.32 [9440:8024:0414/162157.325:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:21:57.32 [9440:8024:0414/162157.326:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:21:57.32 [9440:8024:0414/162157.326:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:23:36.46 [3824:11912:0414/162336.460:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 14, 2017 16:23:37.37 [6748:5756:0414/162337.374:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:23:37.37 [6748:5756:0414/162337.374:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:23:37.37 [6748:5756:0414/162337.375:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:25:18.96 [9088:11584:0414/162518.959:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 14, 2017 16:25:19.25 [9464:11692:0414/162519.252:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:25:19.25 [9464:11692:0414/162519.253:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 14, 2017 16:25:19.25 [9464:11692:0414/162519.253:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+
+Apr 17, 2017 08:02:04.16 NEW SESSION
+Apr 17, 2017 08:02:04.16 [5072:2576:0417/080204.155:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:02:04.29 [5072:2576:0417/080204.155:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:02:04.29 [5072:2576:0417/080204.155:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:02:05.15 [6996:10728:0417/080205.150:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:03:38.70 [9976:236:0417/080336.622:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:03:38.71 [2244:8588:0417/080337.161:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:03:38.71 [2244:8588:0417/080337.161:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:03:38.71 [2244:8588:0417/080337.161:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:04:36.77 [1792:524:0417/080436.778:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:04:36.87 [8492:8620:0417/080436.872:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:04:36.99 [8492:8620:0417/080436.990:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:04:36.99 [8492:8620:0417/080436.990:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:06:09.19 [10556:12220:0417/080609.195:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:06:09.86 [6076:8744:0417/080609.866:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:06:09.86 [6076:8744:0417/080609.866:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:06:09.87 [6076:8744:0417/080609.876:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:06:59.85 [9072:8632:0417/080659.851:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:07:00.55 [3760:7020:0417/080700.554:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:07:00.55 [3760:7020:0417/080700.554:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:07:00.55 [3760:7020:0417/080700.555:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:12:17.42 [5152:5488:0417/081217.425:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:12:17.95 [10832:12216:0417/081217.956:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:12:17.95 [10832:12216:0417/081217.956:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:12:17.95 [10832:12216:0417/081217.956:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:20:20.66 [3064:964:0417/082020.661:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:20:21.23 [1420:11536:0417/082021.235:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:20:21.23 [1420:11536:0417/082021.237:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:20:21.24 [1420:11536:0417/082021.237:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:20:45.27 [4852:248:0417/082045.272:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:20:45.90 [6640:3312:0417/082045.901:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:20:45.90 [6640:3312:0417/082045.901:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:20:45.90 [6640:3312:0417/082045.902:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:21:15.57 [5708:11012:0417/082115.575:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:21:15.89 [6116:10748:0417/082115.891:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:21:15.89 [6116:10748:0417/082115.891:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:21:15.89 [6116:10748:0417/082115.892:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:30:59.89 [4840:7740:0417/083059.896:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:31:00.75 [1572:8264:0417/083100.750:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:31:00.75 [1572:8264:0417/083100.756:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:31:00.75 [1572:8264:0417/083100.756:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:32:20.07 [10072:10224:0417/083220.072:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:32:21.25 [440:3728:0417/083221.253:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:32:21.25 [440:3728:0417/083221.253:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:32:21.28 [440:3728:0417/083221.283:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:32:49.14 [9676:5464:0417/083249.148:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:32:49.66 [3400:6664:0417/083249.667:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:32:49.68 [3400:6664:0417/083249.680:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:32:49.68 [3400:6664:0417/083249.680:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:33:22.89 [12244:4744:0417/083322.896:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:33:23.61 [4956:5744:0417/083323.616:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:33:23.61 [4956:5744:0417/083323.616:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:33:23.61 [4956:5744:0417/083323.616:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:34:51.58 [10824:6720:0417/083451.580:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:34:52.31 [5184:9624:0417/083452.314:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:34:52.31 [5184:9624:0417/083452.314:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:34:52.31 [5184:9624:0417/083452.315:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:35:57.54 [1480:8076:0417/083557.539:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:35:57.92 [4400:10744:0417/083557.915:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:35:57.92 [4400:10744:0417/083557.916:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:35:57.92 [4400:10744:0417/083557.916:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:36:50.95 [1756:5220:0417/083650.950:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:36:51.48 [7316:2916:0417/083651.486:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:36:51.48 [7316:2916:0417/083651.486:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:36:51.48 [7316:2916:0417/083651.487:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:37:50.16 [10700:12144:0417/083750.163:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:37:50.74 [11972:5660:0417/083750.741:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:37:50.74 [11972:5660:0417/083750.742:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:37:50.74 [11972:5660:0417/083750.742:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:39:25.23 [9212:7880:0417/083925.231:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:39:25.85 [11180:8724:0417/083925.857:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:39:25.85 [11180:8724:0417/083925.857:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:39:25.88 [11180:8724:0417/083925.882:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:42:58.57 [6736:9916:0417/084258.570:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:42:59.14 [6096:10496:0417/084259.144:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:42:59.14 [6096:10496:0417/084259.144:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:42:59.14 [6096:10496:0417/084259.144:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:44:46.67 [7488:5884:0417/084446.675:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:44:47.86 [548:5220:0417/084447.866:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:44:47.86 [548:5220:0417/084447.866:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:44:47.87 [548:5220:0417/084447.871:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:45:50.80 [5596:7408:0417/084550.809:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 17, 2017 08:45:51.42 [9116:5756:0417/084551.420:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:45:51.42 [9116:5756:0417/084551.421:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 17, 2017 08:45:51.42 [9116:5756:0417/084551.421:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+
+Apr 19, 2017 23:48:02.15 NEW SESSION
+Apr 19, 2017 23:48:02.16 [12628:12428:0419/234802.153:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 19, 2017 23:48:02.85 [5616:7492:0419/234802.853:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 19, 2017 23:48:02.85 [5616:7492:0419/234802.853:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 19, 2017 23:48:02.85 [5616:7492:0419/234802.859:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+
+Apr 24, 2017 22:28:07.83 NEW SESSION
+Apr 24, 2017 22:28:08.23 [5680:8212:0424/222806.955:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 24, 2017 22:28:08.28 [5680:8212:0424/222806.956:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 24, 2017 22:28:08.28 [5680:8212:0424/222806.956:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 24, 2017 22:28:12.35 [7856:1708:0424/222812.354:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+
+Apr 25, 2017 21:34:28.54 NEW SESSION
+Apr 25, 2017 21:34:28.59 [13612:6088:0425/213427.378:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Apr 25, 2017 21:34:28.60 [13612:12304:0425/213427.942:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 25, 2017 21:34:28.60 [13612:12304:0425/213427.942:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 25, 2017 21:34:28.60 [13612:12304:0425/213427.942:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 25, 2017 21:34:28.82 [10680:2224:0425/213428.820:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 25, 2017 22:05:25.77 [7620:12688:0425/220525.774:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 25, 2017 22:05:26.33 [7888:9312:0425/220526.330:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 25, 2017 22:05:26.33 [7888:9312:0425/220526.334:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 25, 2017 22:05:26.33 [7888:9312:0425/220526.334:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+
+Apr 25, 2017 23:07:29.77 NEW SESSION
+Apr 25, 2017 23:07:29.81 [9104:1308:0425/230729.600:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 25, 2017 23:07:30.23 [13048:10944:0425/230730.233:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 25, 2017 23:07:30.28 [13048:10944:0425/230730.285:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 25, 2017 23:07:30.28 [13048:10944:0425/230730.285:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+
+Apr 26, 2017 09:37:50.34 NEW SESSION
+Apr 26, 2017 09:37:50.41 [10872:5148:0426/093750.024:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 09:37:50.69 [1308:7876:0426/093750.696:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:37:50.69 [1308:7876:0426/093750.696:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:37:50.73 [1308:7876:0426/093750.734:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:42:01.62 [13572:3480:0426/094201.620:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 09:42:03.12 [3880:4936:0426/094203.122:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:42:03.12 [3880:4936:0426/094203.122:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:42:03.12 [3880:4936:0426/094203.127:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:51:25.89 [6576:8044:0426/095125.893:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 09:51:26.52 [7108:6556:0426/095126.528:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:51:26.53 [7108:6556:0426/095126.528:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 09:51:26.53 [7108:6556:0426/095126.529:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 12:23:11.45 [6640:4468:0426/122311.452:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 12:23:11.91 [4924:12456:0426/122311.911:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 12:23:11.91 [4924:12456:0426/122311.911:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 12:23:11.91 [4924:12456:0426/122311.911:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 12:25:43.63 [3736:10680:0426/122543.629:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 12:25:44.24 [6072:6656:0426/122544.243:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 12:25:44.24 [6072:6656:0426/122544.243:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 12:25:44.24 [6072:6656:0426/122544.243:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 12:46:39.51 [6072:13912:0426/124639.514:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+Apr 26, 2017 12:59:15.39 [6072:6656:0426/125915.399:ERROR:render_process_host_impl.cc(2059)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+Apr 26, 2017 13:03:53.59 [6072:6656:0426/130353.593:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 13:06:25.77 [6960:10720:0426/130625.771:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 13:06:26.51 [10508:12260:0426/130626.519:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 13:06:26.52 [10508:12260:0426/130626.520:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 13:06:26.52 [10508:12260:0426/130626.520:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 13:33:17.38 [9232:9668:0426/133317.388:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 13:33:18.36 [8036:9768:0426/133318.365:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 13:33:18.36 [8036:9768:0426/133318.365:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 13:33:18.36 [8036:9768:0426/133318.366:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 13:41:27.02 [WARNING:..\..\..\..\flash\platform\pepper\pep_module.cpp(63)] SANDBOXED
+Apr 26, 2017 14:11:34.44 [8036:13696:0426/141134.444:ERROR:mcs_client.cc(753)] Received close command, resetting connection.
+Apr 26, 2017 14:21:00.94 [8036:13696:0426/142100.941:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+Apr 26, 2017 14:21:01.04 [8036:13696:0426/142101.043:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+Apr 26, 2017 14:21:03.73 [8036:13696:0426/142103.734:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+Apr 26, 2017 14:21:03.84 [8036:13696:0426/142103.843:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+Apr 26, 2017 14:21:13.65 [8036:13696:0426/142113.656:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+Apr 26, 2017 14:21:13.75 [8036:13696:0426/142113.757:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+Apr 26, 2017 14:21:57.72 [WARNING:..\..\..\..\flash\platform\pepper\pep_module.cpp(63)] SANDBOXED
+Apr 26, 2017 18:19:45.82 [464:3236:0426/181945.829:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+Apr 26, 2017 18:19:48.45 [10388:12176:0426/181948.454:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 18:19:48.45 [10388:12176:0426/181948.455:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 18:19:48.45 [10388:12176:0426/181948.455:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 26, 2017 18:28:09.15 [1704:2264:0426/182809.155:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: data source error"}
+Apr 26, 2017 19:17:11.53 [10388:12872:0426/191711.532:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Apr 26, 2017 21:29:05.53 [10388:12872:0426/212905.531:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Apr 26, 2017 21:29:05.72 [10388:12176:0426/212905.723:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 26, 2017 21:29:12.38 [10388:12872:0426/212912.382:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+
+Apr 27, 2017 12:42:19.30 NEW SESSION
+Apr 27, 2017 12:42:19.68 [2484:6448:0427/124218.519:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 12:42:19.76 [2484:6448:0427/124218.520:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 12:42:19.76 [2484:6448:0427/124218.583:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 13:03:53.61 [2484:6448:0427/130353.615:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 14:09:59.70 [2484:6448:0427/140959.699:ERROR:render_process_host_impl.cc(2094)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+Apr 27, 2017 15:19:50.84 [11224:7520:0427/151950.839:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 15:19:50.84 [11224:7520:0427/151950.840:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 15:19:50.84 [11224:7520:0427/151950.840:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 16:25:20.18 [11576:1200:0427/162520.182:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 16:25:20.18 [11576:1200:0427/162520.183:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 16:25:20.22 [11576:1200:0427/162520.224:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 18:20:18.29 [8568:9300:0427/182018.295:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 18:20:18.29 [8568:9300:0427/182018.296:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 18:20:18.29 [8568:9300:0427/182018.296:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 20:50:58.93 [8568:12792:0427/202452.863:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2017 20:50:59.64 [8568:12792:0427/205055.515:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Apr 27, 2017 20:51:03.41 [8568:12792:0427/205103.412:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Apr 27, 2017 23:46:18.38 [12008:2356:0427/234618.387:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 23:46:18.39 [12008:2356:0427/234618.387:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+Apr 27, 2017 23:46:18.40 [12008:2356:0427/234618.401:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+
+May 01, 2017 14:04:04.48 NEW SESSION
+May 01, 2017 14:04:04.74 [7796:6516:0501/140403.693:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 01, 2017 14:04:04.76 [7796:6516:0501/140403.693:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 01, 2017 14:04:04.76 [7796:6516:0501/140403.694:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 01, 2017 18:36:44.71 [7796:10156:0501/183644.718:ERROR:socket_stream.cc(210)] Closing stream with result -100
+May 01, 2017 20:19:43.75 [7796:10156:0501/201943.754:ERROR:socket_stream.cc(210)] Closing stream with result -100
+May 02, 2017 02:51:06.53 [14136:5808:0502/025106.535:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 02:51:06.53 [14136:5808:0502/025106.535:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 02:51:06.56 [14136:5808:0502/025106.560:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+
+May 02, 2017 22:42:26.28 NEW SESSION
+May 02, 2017 22:42:26.32 [7764:12400:0502/224226.027:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:42:26.35 [7764:12400:0502/224226.027:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:42:26.36 [7764:12400:0502/224226.043:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:42:49.98 [9692:6796:0502/224249.987:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:42:49.98 [9692:6796:0502/224249.987:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:42:49.99 [9692:6796:0502/224249.987:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:47:53.29 [2264:11320:0502/224753.289:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:47:53.29 [2264:11320:0502/224753.289:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 02, 2017 22:47:53.29 [2264:11320:0502/224753.289:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+
+May 10, 2017 10:16:10.71 NEW SESSION
+May 10, 2017 10:16:10.97 [13868:15036:0510/101608.718:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 10, 2017 10:16:11.02 [13868:15036:0510/101608.748:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 10, 2017 10:16:11.02 [13868:15036:0510/101608.748:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 10, 2017 10:32:36.90 [13868:15036:0510/103236.903:ERROR:render_process_host_impl.cc(2094)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+May 10, 2017 12:11:55.37 [13868:15036:0510/121155.373:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+
+May 12, 2017 12:25:41.88 NEW SESSION
+May 12, 2017 12:25:42.23 [1440:8676:0512/122539.111:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 12, 2017 12:25:42.27 [1440:8676:0512/122539.177:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 12, 2017 12:25:42.27 [1440:8676:0512/122539.177:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 12, 2017 12:55:16.59 [1440:8676:0512/125516.596:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 12, 2017 17:52:20.84 [1440:9336:0512/175220.361:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 12, 2017 17:52:23.82 [1440:9336:0512/175223.821:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 12, 2017 18:48:40.83 [1440:8676:0512/184840.835:ERROR:render_process_host_impl.cc(2094)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+May 12, 2017 22:18:18.51 [1440:9336:0512/221818.515:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 12, 2017 22:18:18.74 [1440:8676:0512/221818.741:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 12, 2017 22:18:25.36 [1440:9336:0512/221825.360:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 13, 2017 04:47:29.56 [1440:9336:0513/044729.562:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 13, 2017 04:47:31.81 [1440:8676:0513/044729.750:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 13, 2017 04:47:37.25 [1440:9336:0513/044737.250:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+
+May 22, 2017 12:09:56.97 NEW SESSION
+May 22, 2017 12:09:57.33 [7944:14276:0522/120955.604:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 22, 2017 12:09:57.40 [7944:14276:0522/120955.604:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 22, 2017 12:09:57.40 [7944:14276:0522/120955.607:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 22, 2017 12:44:56.95 [7944:14276:0522/124456.954:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 22, 2017 15:55:09.51 [7944:6584:0522/155509.515:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 22, 2017 15:55:09.74 [7944:14276:0522/155509.746:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 22, 2017 15:55:13.88 [7944:6584:0522/155513.883:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 22, 2017 15:55:37.49 [7944:14276:0522/155535.536:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 22, 2017 19:17:09.97 [7944:6584:0522/191709.209:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 22, 2017 19:17:18.09 [7944:14276:0522/191714.136:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 22, 2017 21:13:44.93 [7944:14276:0522/211344.931:ERROR:render_process_host_impl.cc(2094)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+May 22, 2017 22:13:21.59 [7944:6584:0522/221321.593:ERROR:mcs_client.cc(753)] Received close command, resetting connection.
+
+May 24, 2017 10:57:50.31 NEW SESSION
+May 24, 2017 10:57:50.56 [10832:10248:0524/105748.152:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 24, 2017 10:57:50.89 [10832:10248:0524/105748.152:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 24, 2017 10:57:50.89 [10832:10248:0524/105748.152:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 24, 2017 18:23:58.68 [2792:4412:0524/182358.684:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 24, 2017 18:23:58.70 [2792:4412:0524/182358.684:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 24, 2017 18:23:58.70 [2792:4412:0524/182358.684:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 24, 2017 19:15:14.52 [2792:3704:0524/191514.522:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 24, 2017 20:49:48.57 [2792:3704:0524/204948.577:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 24, 2017 20:49:48.74 [2792:4412:0524/204948.745:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 24, 2017 20:49:52.25 [2792:3704:0524/204952.252:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 24, 2017 20:49:55.38 [2792:3704:0524/204955.389:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 25, 2017 24:26:31.56 [2792:4412:0525/002631.566:ERROR:render_process_host_impl.cc(2094)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+May 25, 2017 04:28:58.47 [2792:3704:0525/042858.470:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 25, 2017 07:28:54.54 [2792:3704:0525/072854.540:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 25, 2017 07:28:58.95 [2792:4412:0525/072858.953:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2017 07:29:02.09 [2792:3704:0525/072901.972:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 25, 2017 07:29:25.22 [2792:4412:0525/072925.223:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2017 08:16:37.54 [2792:3704:0525/081637.541:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 25, 2017 08:16:38.20 [2792:4412:0525/081637.738:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2017 08:16:40.91 [2792:3704:0525/081640.918:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 25, 2017 12:06:00.72 [2792:4412:0525/120600.720:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2017 12:06:13.92 [2792:3704:0525/120603.325:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 25, 2017 12:49:25.26 [2792:4412:0525/124925.263:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+
+May 25, 2017 18:49:54.87 NEW SESSION
+May 25, 2017 18:49:55.13 [3824:15072:0525/184954.065:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Invalid credentials.
+May 25, 2017 18:49:55.27 [3824:15072:0525/184954.066:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 25, 2017 18:49:55.27 [3824:15072:0525/184954.066:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Invalid credentials.
+May 25, 2017 19:15:44.80 [3824:9348:0525/191544.803:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 25, 2017 21:14:50.53 [3824:9348:0525/211450.531:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+May 25, 2017 21:14:50.69 [3824:15072:0525/211450.697:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 25, 2017 21:14:53.74 [3824:9348:0525/211453.745:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 25, 2017 21:14:57.25 [3824:9348:0525/211457.250:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+May 25, 2017 22:13:11.86 [3824:15072:0525/221311.841:ERROR:render_process_host_impl.cc(2094)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener

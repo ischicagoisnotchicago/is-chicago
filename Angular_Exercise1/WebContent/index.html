@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+  <title>Welcome to BooKart</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://localhost:9090/Angular_Exercise1/css/webapp.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+  <script src="http://localhost:9090/Angular_Exercise1/js/webapp.js""></script>
+</head>
+<body>
+  <div id="header-wrapper" ng-controller="headerCntl">
+  	<span class="logo pull-left">{{webappDetails.title}}</span>
+  	<span class="tagline pull-left">{{webappDetails.tagline}}</span>
+  	<div class="nav-wrapper pull-left">
+  	  <ul class="nav nav-pills">
+  	     <li class="active"><a href="#">Books</a></li>
+  	     <li><a href="#">Kart</a>
+  	  </ul>
+  	</div>
+  </div>
+
+</body>
+</html>

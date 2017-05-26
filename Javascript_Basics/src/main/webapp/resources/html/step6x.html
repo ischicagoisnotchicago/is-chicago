@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>StepByStep6.x</title>
+</head>
+<body style = "text-align: center;">
+<div>
+<!-- Step 1  -->
+<script>
+document.write("Hello World (1)!");
+</script>
+
+<!-- Step 2 -->
+<h1>
+<script>
+document.write("Hello World (2)!");
+</script>
+</h1>
+<script>
+if (navigator.appName !== "Microsoft Internet Explorer") {
+  document.write("You are not Microsoft Internet Explorer.<br>");
+  document.write("Maybe you are using Chrome?")
+} else {
+  document.write("This is Microsoft Internet Explorer.");
+  document.write("Wouldn't you rather use Chrome?");
+}
+</script>
+<script>
+window.alert("Did you know alert() is part of the object - window?");
+</script>
+<script>
+if (navigator.appName !== "Microsoft Internet Explorer") {
+  alert("You are "+navigator.appName);
+}
+</script>
+</div>
+</body>
+
+</html>

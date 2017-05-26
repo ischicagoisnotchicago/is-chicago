@@ -1,0 +1,159 @@
+/* Comments unless otherwise noted are required for the project */
+
+/* A background color */
+/* Change the font to a different Font-Family */
+/* Changing body{height: 100%} will extend the page height making it easier to position content more accurately! */
+body {
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+   background-color: #E9AB17; /* Bee Yellow */
+   height: 100%;
+   width: 93%;
+   margin: 0 auto 0 auto;
+}
+
+body#contact {
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+   background-color: #e6c300;
+   height: 100%;
+   width: 93%;
+   margin: 0 auto 0 auto;
+   padding-bottom: 20px;	
+}
+
+/* A style navbar */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #b39800;
+  width: 20%;
+  padding: 2px 10px 2px 10px;
+  border-style: double;
+  border-width: 8px;
+  border-color: #998200;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;	
+}
+
+nav ul li {
+	display: inline;
+}
+
+a.nolink {
+	text-decoration: none;
+}
+
+
+a:link, 
+a:visited {
+	color: #000000;
+}
+
+/* Style links so when you hover the link, a different color is displayed */
+a:hover {
+    color: #EDDA74;
+    background-color: #006400;
+}
+
+/* selected link */
+a:active {
+    color: #F87217;
+}
+
+h1 {
+	display: block;
+	text-align: center;
+	text-size: 1.7em;
+}
+
+img#aboutme {
+	height: 25%;
+	width: 25%;
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+em {
+	display: block;
+	text-align: right;
+}
+
+p {
+	display: block;
+	text-indent: 20px;
+	text-align: justify;
+	text-size: 3em;	
+}
+
+/* Center all content on Home and Contact pages */
+.center {
+	display: block;
+	text-align: center;
+}
+
+/* The Contact should have a different color background and a set width of 25% */
+form {
+	position: relative;
+	display: block;
+	background-color: #ccad00;
+	width: 25%;
+	border-style: solid;
+	border-color: #998200;
+	border-width: 7px 1px 1px 8px;
+	padding: 20px 0 0 0;
+	margin: 20px auto 20px auto;
+}
+
+
+form input {
+	position: relative;
+	background-color: #ffe44d;
+}
+
+form textarea {
+	position: relative;
+	background-color: #ffe44d;
+	border-style: solid;
+	border-color: #99a6b2 #FFFFFF #FFFFFF #99a6b2;
+	border-width: 2px;
+}
+
+/* Footer needs to be stuck to the bottom of the page. */
+/* The table needs to have a border and a background color */
+/* The mailto: with your email should be positioned in the bottom left corner with a border and background color */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+footer table {
+  height: 10px;
+  width: 20%;
+  margin: 0 545px;
+  background-color: #806c00;
+  border-style: double;
+  border-width: 8px;
+  border-color: #998200;
+}
+
+div#portfolio ul {
+   list-style-type: none;
+   margin-left: 300px;;
+   color: #F5FFFA;
+   text-shadow: 2px 2px #708090;
+}
+
+div#portfolio ul h4 {
+	display: block;
+	color: #800000;
+	width: 50%;
+	text-align: justify;
+	font-weight: normal;
+	margin-left: 150px;
+	text-shadow: none;
+}

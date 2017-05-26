@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;CC Personal Website/WebContent/newprofile.css&apos; to &apos;style.css&apos;" description="Rename resource &apos;newprofile.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/newprofile.css" name="style.css" stamp="1493756065462" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;CC Personal Website/WebContent/portofolio.html&apos; to &apos;portfolio.html&apos;" description="Rename resource &apos;portofolio.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/portofolio.html" name="portfolio.html" stamp="1493756117427" updateReferences="true"/>
+</session>

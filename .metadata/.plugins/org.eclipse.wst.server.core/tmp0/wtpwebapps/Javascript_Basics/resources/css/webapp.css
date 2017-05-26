@@ -1,0 +1,24 @@
+body {
+	background-color: #F0FFFF;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #4CAF50;
+}
+
+p {
+	text-align: center;
+}
+
+.emphasis {
+    display: inline;
+	font-style: italic;
+	text-decoration: line-through; 
+}
+
+.centerli {
+	width: 40%;
+	margin: 0 475px;
+}

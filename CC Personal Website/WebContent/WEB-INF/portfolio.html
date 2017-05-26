@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>David Turner | Portfolio</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<!-- Header -->
+	<header>
+		<h1 class="h1pad">My Portfolio Page</h1>
+		<h4>
+			This page will list my <strong>accomplishments</strong> as part of
+			the Coder Camp course.
+		</h4>
+	</header>
+
+	<!-- Navigation Bar -->
+	<nav>
+		<a href="index.html">Home </a> | <a href="portfolio.html">Portfolio
+		</a> | <a href="contact.html">Contact</a>
+	</nav>
+
+	<div id="content">
+		<!-- Content : Unordered list -->
+		<div id="portlist">
+			<dl>
+				<dt class="whiteshad">Personal Website</dt>
+				<dd>This is my first Website created for Coding from Scratch
+					using HTML5 and CSS.</dd>
+			</dl>
+		</div>
+
+		<!-- Text Reader -->
+		<div id="shotime">
+			<h4>Text Reader and Statistics</h4>
+			<textarea id="sample" name="textReader" rows=5 cols=30></textarea>
+			<br> <input type="button" onClick="reportStat()"
+				value="Click Me!"
+			/>
+		</div>
+
+
+
+	</div>
+	<!-- Footer -->
+	<footer>
+		<a href="https://twitter.com/theagnessilient">Twitter</a> | <a
+			href="https://www.facebook.com/profile.php?id=100004606000131"
+		>Facebook</a> | <a href="https://www.linkedin.com/in/davidaturner19/">LinkedIn</a>
+	</footer>
+
+	<script>
+    var Punctuation = {
+
+      COMMA : ',',
+      SPACE : ' ',
+      PERIOD : '.',
+      QUEST : '?',
+      EXC : '!'
+    }
+
+    var reportMy = {
+      text : "",
+      numOfWords : 0,
+      numOfSents : 0,
+      numOfSpaces : 0,
+      aveWordsPerSent : 0
+    }
+
+    function reportStat() {
+
+      var wordStarted = false;
+
+      reportMy.text = document.getElementById("sample").value;
+      for ( i = 0; i < reportMy.text.length; i++) {
+
+        switch ( reportMy.text[i]) {
+
+          case Punctuation.PERIOD:
+          case Punctuation.QUEST:
+          case Punctuation.EXC:
+            if ( wordStarted === true) {
+              reportMy.numOfSents++;
+            }
+            //        break; 
+
+          case Punctuation.COMMA:
+            if ( wordStarted === true) {
+              reportMy.numOfWords++;
+              wordStarted = false;
+            }
+            break;
+
+          case Punctuation.SPACE:
+            reportMy.numOfSpaces++;
+            if ( wordStarted === true) {
+              reportMy.numOfWords++;
+              wordStarted = false;
+            }
+            break;
+
+          default: {
+            if ( wordStarted === false) {
+              wordStarted = true;
+            }
+          }
+        }
+      }
+
+      reportMy.aveWordsPerSent = parseInt(reportMy.numOfWords
+          / reportMy.numOfSents);
+      return reportMy;
+    }
+  </script>
+</body>
+</html>

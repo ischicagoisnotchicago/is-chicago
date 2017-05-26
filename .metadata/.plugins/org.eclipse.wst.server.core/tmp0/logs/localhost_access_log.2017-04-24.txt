@@ -1,0 +1,9 @@
+127.0.0.1 - - [24/Apr/2017:13:55:48 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:13:55:50 -0400] "GET /Javascript_Basics/index.html HTTP/1.1" 200 684
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:13:55:50 -0400] "GET /Javascript_Basics/resources/js/quizzer.js HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:13:55:50 -0400] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:13:56:09 -0400] "GET /Javascript_Basics/index.html HTTP/1.1" 200 691
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:13:56:09 -0400] "GET /Javascript_Basics/src/main/webapp/resources/js/quizzer.js HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:14:43:25 -0400] "GET /Javascript_Basics/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:14:43:25 -0400] "GET /Javascript_Basics/resources/js/quizzer.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2017:14:43:25 -0400] "GET /Javascript_Basics/src/main/webapp/resources/js/quizzer.js HTTP/1.1" 404 1108

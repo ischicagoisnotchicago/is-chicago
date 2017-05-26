@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DOM Exercises</title>
+</head>
+<body>
+
+<p id="demo">Click here.</p>
+<h1>H1 here.</h1>
+<p id="demo1">Silly Old Bear.</p>
+<h2 class="sob">Oh Bother.</h2>
+<h2 class="sob">My jar is empty.</h2>
+<p class="cryout">I am so small.</h2>
+<br><br>
+<button onClick="changeColorOfTag()">Try it!</button>
+
+<script>
+function changeColor() {
+  
+  var x = document.getElementById("demo");
+  x.style.color = "red";
+}
+</script>
+
+<script>
+function changeColorOfTag() {
+  
+  var x = document.getElementsByTagName("h2");
+  for(i=0;i<=x.length-1;i++) {
+    x[i].style.color = "red";    
+  }
+}
+</script>
+
+<script>
+function changeColorOfClass() {
+  var x = document.getElementsByClassName("cryout");
+  for(i=0;i<=x.length-1;i++) {
+    x[i].style.color = "red";    
+  }
+}
+
+</script>
+<script>
+function changeText() {
+  var x = document.getElementById("demo");
+  x.innerHTML = "No, I mean Click Here.";
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>David Turner | Contact</title>
+    <link rel="stylesheet" type="text/css" href="myprofile.css">
+  </head>
+  <body id="contact">
+  
+    <nav>
+      <ul>
+        <li><a class="nolink" href="http://localhost:9090/CC_Personal_Website/index.html">Home </a> | </li>
+        <li><a class="nolink" href="http://localhost:9090/CC_Personal_Website/portofolio.html">Portfolio </a> | </li>
+        <li><a class="nolink" href="http://localhost:9090/CC_Personal_Website/contact.html">Contact</a></li>
+      </ul>   
+    </nav>
+    
+    	<header>
+        	<h1>Contact Me</h1><br><br>
+    	</header>
+     	<div>
+      		<form class="center" action="https://formspree.io/turnin19@earthlink.net" method="POST">
+      		    <p class="center">If you would like to contact me...</p>  	
+        		<input type="text" name="name" placeholder="Name"><br>
+   	    		<input type="email" name="_replyto" placeholder="Email"><br>
+        		<textarea rows=5 cols=22 name="message" placeholder="Message"></textarea><br><br>
+        		<button type="submit">Send</button><br><br>
+      		</form>
+    	</div>  
+    	<div class="bottomstuck">
+          <a href="mailto:turnin19@earthlink.net?Subject=Hello%20David!">turnin19@earthlink.net</a>
+          <footer class="nobottomstuck">
+      	     <h4>Follow me on</h4>
+      	     <table>
+      		 <tr>
+        		<td><a class="nolink" href="https://twitter.com/theagnessilient">Twitter</a> | </td>
+        		<td><a class="nolink" href="https://www.facebook.com/profile.php?id=100004606000131">Facebook</a> | </td>
+        		<td><a class="nolink" href="https://www.linkedin.com/in/davidaturner19/">LinkedIn</a></td>
+      		 </tr>
+      	     </table>
+    	  </footer>     
+      	</div>
+    	
+
+  </body>
+</html>

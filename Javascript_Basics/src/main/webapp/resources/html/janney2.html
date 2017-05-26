@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Step 7x</title>
+</head>
+<body onLoad = "startup()" class="text-align: center">
+<a href="html/webpage.html" onMouseOut="turnjanney()" onMouseOver="turnheadey()">
+Next Page
+</a>
+<p><img name="gf" src="img/janney.jpeg"></p>
+<script>
+var janney = new Image;
+var headey = new Image;
+
+function startup() {
+
+  janney.src = "img/janney.jpeg";
+  headey.src = "img/headey.jpeg";
+  return;
+}
+
+function turnjanney() {
+  
+  document.gf.src = janney.src;
+  return;
+}
+
+function turnheadey() {
+  
+  document.gf.src = headey.src;
+  return;
+}
+</script>
+</body>
+</html>

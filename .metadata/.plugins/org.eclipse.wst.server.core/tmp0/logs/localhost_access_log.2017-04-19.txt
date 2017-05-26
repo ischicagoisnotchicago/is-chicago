@@ -1,0 +1,6 @@
+127.0.0.1 - - [19/Apr/2017:23:47:59 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [19/Apr/2017:23:48:03 -0400] "GET /CC_Personal_Website/index.html HTTP/1.1" 200 3809
+0:0:0:0:0:0:0:1 - - [19/Apr/2017:23:48:03 -0400] "GET /CC_Personal_Website/myprofile.css HTTP/1.1" 200 3214
+0:0:0:0:0:0:0:1 - - [19/Apr/2017:23:48:03 -0400] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [19/Apr/2017:23:48:12 -0400] "GET /CC_Personal_Website/portofolio.html HTTP/1.1" 200 1417
+0:0:0:0:0:0:0:1 - - [19/Apr/2017:23:48:17 -0400] "GET /CC_Personal_Website/contact.html HTTP/1.1" 200 1775

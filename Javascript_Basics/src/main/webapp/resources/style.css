@@ -1,0 +1,68 @@
+body, html {
+	height: 100%;
+	width: 95%;
+	background-color: #e6fff7;
+	text-align: center;
+}
+
+header {
+	height: 30px;
+	border: 2px solid green;
+}
+
+nav {
+	height: 10%;
+	background-color: #33ffbb;
+}
+
+#main {
+	height: 450px;
+}
+
+#sect1A {
+	height: 330px;
+	width: 50%;
+	float: left;
+	background-color: #ff9f80;
+}
+
+#sect1B {
+	height: 330px;
+	width: 50%;
+	float: right;
+	background-color: #9fff80;
+}
+
+#div1A {
+	height: 110px;
+	width: 200px;
+	border: 2px solid green;
+	margin: 170px auto;
+	background-color: #9fff80;
+}
+
+.texter {
+	color: red;
+}
+
+.sButton {
+	height: 110px;
+	width: 200px;
+	border: 2px double green;
+	margin: 170px auto;
+}
+
+#sect2 {
+	height: 120px;
+	clear: both;
+	background-color: #004d33;
+}
+
+footer {
+	height: 90px;
+	border: 2px solid green;
+}
+
+.noaddstyle {
+	
+}

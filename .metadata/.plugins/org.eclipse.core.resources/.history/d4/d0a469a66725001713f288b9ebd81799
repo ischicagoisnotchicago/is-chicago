@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>David Turner | Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="myprofile.css">
+  </head>
+  <body>
+  
+    <nav>
+      <ul>
+        <li><a class="nolink" href="http://localhost:9090/CC_Personal_Website/index.html">Home </a> | </li>
+        <li><a class="nolink" href="http://localhost:9090/CC_Personal_Website/portofolio.html">Portfolio </a> | </li>
+        <li><a class="nolink" href="http://localhost:9090/CC_Personal_Website/contact.html">Contact</a></li>
+      </ul>   
+    </nav>
+    
+    <header>
+      <h1>My Portfolio</h1><br>
+      <p class="center">This Page will list my new accomplishments.</p>
+      <br><br>
+    </header>  
+
+    <div id="portfolio">
+      <ul>
+        <li><h2>Personal Website</h2>
+        <h4>This is my first Website created for Coding from Scratch using HTML5 and CSS.</h4></li>
+      </ul>
+      <br><br><br>
+      <br>
+    </div>
+
+    <footer>
+      <h4>Posted by: David A. Turner</h4>
+      <table>
+        <tr>
+          <td><a class="nolink" href="https://twitter.com/theagnessilient">Twitter</a> | </td>
+          <td><a class="nolink" href="https://www.facebook.com/profile.php?id=100004606000131">Facebook</a> | </td>
+          <td><a class="nolink" href="https://www.linkedin.com/in/davidaturner19/">LinkedIn</a></td>
+      	</tr>
+      </table>
+    </footer>
+    	
+    </body>
+</html>
